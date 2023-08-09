@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Grace
+- All of my repositories are projects from school
