@@ -1,3 +1,2 @@
 - 👋 Hi, I’m GraceFun1
-- You can call me Grace or Naomi
 - All of my repositories are projects from school
